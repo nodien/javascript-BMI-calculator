@@ -2,7 +2,7 @@
 
 The formula is BMI = kg/m2; kg is a person’s weight in kilograms and m2 is height in metres squared.
 
- Feet = Inches / 12
+ Feet = Inches / 12 \n
  Meters = Inches × 0.0254
  KG = LB * 0.453592
  CM = Meters/100
